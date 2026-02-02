@@ -58,4 +58,8 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 ---
 
+## LOOM VIDEO RECORDING ###
+
+Link : https://www.loom.com/share/41275dc487af4b71abf86d06c0151705
+
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
